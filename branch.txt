@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is a pointer (that can and will almost always move) to any of your commits. The Master branch is the default in Git. The Master branch will point to the last commit you made. 
