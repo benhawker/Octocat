@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words.
+Git clone fetches repo’s that you don’t already have in your local directories.
