@@ -1,1 +1,1 @@
-Explain what the “upstream” remote is usually used for, in your own words
+A remote repo is a repo that is not local to your development machine or that of other developers working on your project. You may use a remote as a reference to point towards your remote repo. The upstream remote is usually used to push your local work back upstream for others to then see/edit/work on.
